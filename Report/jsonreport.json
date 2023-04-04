@@ -1,0 +1,238 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 25,
+        "name": "To validate the positive and negative combination of login functionality",
+        "description": "",
+        "id": "to-the-login-functionality-of-gmail-application;to-validate-the-positive-and-negative-combination-of-login-functionality;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3650572100,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User has to launch the browser and maximise the window",
+            "match": {
+              "location": "Fblogin.user_has_to_launch_the_browser_and_maximise_the_window()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1659043300,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user has to hit the facebook url",
+            "match": {
+              "location": "Fblogin.user_has_to_hit_the_facebook_url()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 657503700,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User has to pass the data \"Praveen@gmail.com\" in email field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Praveen@gmail.com\"",
+                  "offset": 26
+                }
+              ],
+              "location": "Fblogin.user_has_to_pass_the_data_in_email_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 276913000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User has to close the browser",
+            "match": {
+              "location": "Fblogin.user_has_to_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Feature1"
+          },
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 26,
+        "name": "To validate the positive and negative combination of login functionality",
+        "description": "",
+        "id": "to-the-login-functionality-of-gmail-application;to-validate-the-positive-and-negative-combination-of-login-functionality;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1533534300,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User has to launch the browser and maximise the window",
+            "match": {
+              "location": "Fblogin.user_has_to_launch_the_browser_and_maximise_the_window()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1658550500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user has to hit the facebook url",
+            "match": {
+              "location": "Fblogin.user_has_to_hit_the_facebook_url()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 590121300,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User has to pass the data \"kumar@gmail.com\" in email field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"kumar@gmail.com\"",
+                  "offset": 26
+                }
+              ],
+              "location": "Fblogin.user_has_to_pass_the_data_in_email_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 264838700,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User has to close the browser",
+            "match": {
+              "location": "Fblogin.user_has_to_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Feature1"
+          },
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "line": 27,
+        "name": "To validate the positive and negative combination of login functionality",
+        "description": "",
+        "id": "to-the-login-functionality-of-gmail-application;to-validate-the-positive-and-negative-combination-of-login-functionality;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1633711100,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "User has to launch the browser and maximise the window",
+            "match": {
+              "location": "Fblogin.user_has_to_launch_the_browser_and_maximise_the_window()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1622026600,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user has to hit the facebook url",
+            "match": {
+              "location": "Fblogin.user_has_to_hit_the_facebook_url()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 280355700,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User has to pass the data \"barath@gmail.com\" in email field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"barath@gmail.com\"",
+                  "offset": 26
+                }
+              ],
+              "location": "Fblogin.user_has_to_pass_the_data_in_email_field(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 620296400,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User has to close the browser",
+            "match": {
+              "location": "Fblogin.user_has_to_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Feature1"
+          },
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "To the login functionality of Gmail application",
+    "description": "",
+    "id": "to-the-login-functionality-of-gmail-application",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Sample.feature",
+    "tags": [
+      {
+        "name": "@Feature1",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="14.458646">
+    <testcase classname="To the login functionality of Gmail application" name="To validate the positive and negative combination of login functionality" time="6.254319">
+        <system-out><![CDATA[Given User has to launch the browser and maximise the window................passed
+When user has to hit the facebook url.......................................passed
+And User has to pass the data "Praveen@gmail.com" in email field............passed
+Then User has to close the browser..........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To the login functionality of Gmail application" name="To validate the positive and negative combination of login functionality 2" time="4.047421">
+        <system-out><![CDATA[Given User has to launch the browser and maximise the window................passed
+When user has to hit the facebook url.......................................passed
+And User has to pass the data "kumar@gmail.com" in email field..............passed
+Then User has to close the browser..........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To the login functionality of Gmail application" name="To validate the positive and negative combination of login functionality 3" time="4.156906">
+        <system-out><![CDATA[Given User has to launch the browser and maximise the window................passed
+When user has to hit the facebook url.......................................passed
+And User has to pass the data "barath@gmail.com" in email field.............passed
+Then User has to close the browser..........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
